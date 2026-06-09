@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tín!
 
-<!--
-**Tjkut/Tjkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **second-year student at HCMUS** with a strong interest in **Data Science** and **Data Engineering**.
+I enjoy learning how to work with data, explore databases, build data pipelines, and turn raw data into meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Career Goals
+
+I am aspiring to become a **Data Engineer**, focusing on scalable data pipelines, database systems, and efficient data processing.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus)
+![R](https://img.shields.io/badge/Code-R-blue?logo=r)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/Data-SQL-blue?logo=postgresql)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![SSMS](https://img.shields.io/badge/Database-SSMS-red?logo=microsoftsqlserver)
+
+### ⚙️ Data Engineering
+
+![Airflow](https://img.shields.io/badge/Tool-Airflow-blue?logo=apacheairflow)
+
+---
+
+## 🚀 Current Focus
+
+* Learning **Data Engineering**
+* Practicing **Python, SQL, and PostgreSQL**
+* Building ETL/ELT pipelines
+* Improving database design and query optimization skills
+* Exploring workflow orchestration with Airflow
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tjkut\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjkut\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+* GitHub: [Tjkut](https://github.com/Tjkut)
+* Email: [nguyenthanhtin.pt0610@gmail.com](mailto:nguyenthanhtin.pt0610@gmail.com)
+
+---
+
+## ✨ About Me
+
+I am always learning and improving my skills through projects, practice, and real-world data concepts.
+My goal is to build reliable data systems and become a strong Data Engineer in the future.
